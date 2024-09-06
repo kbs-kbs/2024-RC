@@ -19,20 +19,20 @@
 |excellent|훌륭한|
 |eligible|조건을 갖춘|
 |identify|확인하다|
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
+|associate|관련시키다|
+|condition|조건|
+|employment|고용|
+|lack|없다, 부족|
+|managerial|관리의|
+|diligent|성실한|
+|familiar|친숙한|
+|proficiency|숙달|
+|prospective|장래의|
+|appeal|관심을 끌다|
+|specialize|전공하다|
+|apprehensive|걱정하는|
+|consultant|고문|
+|entitle|자격을 주다|
 |||
 |||
 |||
