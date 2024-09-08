@@ -63,7 +63,7 @@
 |negative|부정적인|
 |mandate|명령하다, 명령, 권한|
 |effect|파급효과|
-|drastically|과감하게, 철저하게|
+|drastically|극적으로|
 |according to|~에 따라|
 |enable|가능하게 하다|
 |standard|표준|
