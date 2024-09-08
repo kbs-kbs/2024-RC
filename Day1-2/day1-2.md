@@ -19,7 +19,7 @@
 |excellent|훌륭한|
 |eligible|조건을 갖춘|
 |identify|확인하다|
-|associate|관련시키다|
+|associate|연상하다|
 |condition|조건|
 |employment|고용|
 |lack|없다, 부족|
