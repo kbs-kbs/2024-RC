@@ -64,18 +64,18 @@
 ||mandate|명령하다, 명령, 권한|
 ||effect|파급효과|
 ||drastically|극적으로|
-||according to|~에 따라|
-||enable|가능하게 하다|
-||standard|표준|
-||constant|지속적인|
-||act|법령, 행위, 결의서|
-||compensation|보상|
-||ban|금지|
-||obligation|의무|
-||authorize|인가하다|
-||prohibit|금지하다|
-||abolish|폐지하다|
-||enforce|시행하다|
-||habit|습관, 버릇|
-||lagislation|법률|
-||restrict|제한하다|
+|prep.|according to|~의 말로는, ~에 따라|
+|v.|enable|가능하게 하다|
+|n.|standard|표준|
+|a.|constant|지속적인|
+|n.|act|법령, 행위, 결의서|
+|n.|compensation|보상|
+|n.|ban|금지|
+|n.|obligation|의무|
+|v.|authorize|인가하다|
+|v.|prohibit|금지하다|
+|v.|abolish|폐지하다|
+|v.|enforce|시행하다|
+|n.|habit|습관, 버릇|
+|n.|lagislation|법률|
+|v.|restrict|제한하다|
