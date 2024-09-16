@@ -1,5 +1,12 @@
 ---
-https://m.blog.naver.com/hhkayon/221437404973?recommendCode=2
+출처: https://m.blog.naver.com/hhkayon/221437404973?recommendCode=2
+
+
+|품사|형식|단어|뜻|
+|---|---|---|---|
+|v.|3|find|찾다|
+|v.|4|find|찾아 주다|
+|v.|5|find|여기다|
 
 ##
 
