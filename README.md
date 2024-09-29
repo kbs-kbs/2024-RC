@@ -20,7 +20,10 @@
 - **대명사 유형**:
   - ___ + *n.* -> **my, your, his, her, our, their, its** (소유격 대명사)   
   - ___ + *v.* -> **I, you, he, she, we, they, it** (주격 대명사)   
-  - *v.* + ___ -> **me, you, him, her, us, them, it** (목적격 대명사)   
+  - *v.* + ___ -> **me, you, him, her, us, them, it** (목적격 대명사)
+ 
+- **2 형식 유형**:
+  - be/become + ___ -> **n., a.** (명사, 형용사)
 
 - **시점 표현**:
   - last -> was
