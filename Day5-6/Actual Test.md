@@ -69,3 +69,17 @@
   2. (prompt and ___ services) -> 'prompt'는 '신속한'이라는 의미의 형용사이므로 'and' 뒤에는 형용사가 와야 합니다.
   3. **(A) reliable (B) reliant** -> 해석
   4. "의지하는 서비스" 보다 "믿을만한 서비스"가 더 자연스러우므로 (B)가 정답입니다.
+
+## Actual Test (p. 62)
+
+1. Faststream Banking has __ introduced the new payment model for the European market.
+
+   (A) successfully (B) success (C) succeed (D) successful
+
+- **풀이**:
+
+  1. 문법 문제
+  2. (has __ introduced) ->
+  3. 동사 'has' + 명사 + 과거 분사 'introduced' 뒤에 목적어가 있으므로 X
+  4. 조동사 'has' + 부사 + 동사 'introduced' O
+  5. 따라서 정답은 (A)입니다.
