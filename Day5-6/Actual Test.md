@@ -17,8 +17,21 @@
 
    (A) expensive (B) expensively (C) expense (D) expenses
 
-**풀이법**:
+- **풀이법**:
+  
+  1. 문법 문제 -> 편법
+  2. (is often too ___) -> 동사 뒤에 부사가 있으므로 *p.p*.가 올 수 없습니다. 따라서 주격 보어가 와야 합니다. 하지만 부사는 명사를 꾸미지 않으므로 형용사 (A)가 정답입니다.
 
-1. 문법 문제 -> 편법
-2. (is often too ___) -> 동사 뒤에 부사가 있으므로 *p.p*.가 올 수 없습니다. 따라서 주격 보어가 와야 합니다. 하지만 부사는 명사를 꾸미지 않으므로 형용사 (A)가 정답입니다.
+---
+
+10. In order to get a refund for your ___ items, please return them to the store along with your original receipt.
+
+    (A) defectively (B) defective (C) defect (D) defects
+
+- **풀이**:
+
+  1. 문법 문제 -> 편법
+  2. (for your ___ items) -> 전치사구에 명사가 이미 있으므로 형용사만 올 수 있습니다. 따라서 (B)가 정답입니다.
+ 
+---
 
