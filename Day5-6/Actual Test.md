@@ -35,3 +35,16 @@
  
 ---
 
+5. The Buo Corporation plans to invest a ___ amount of money to upgrade its data center.
+
+   (A) considerate (B) considerably (C) considering (D) considerable
+
+- **풀이**:
+
+  1. 문법 문제 -> 편법
+  2. (a ___ amount of money) -> 목적어 구에 명사가 이미 존재하므로 형용사만 올 수 있습니다.
+  3. (A)와 (D)가 모두 형용사 -> 해석
+  4. "사려깊은 양의 돈" 보다 "상당한 양의 돈"이 더 자연스러우므로 정답은 (D)입니다.
+ 
+---
+
