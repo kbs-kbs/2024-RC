@@ -83,3 +83,47 @@
   3. 동사 'has' + 명사 + 과거 분사 'introduced' 뒤에 목적어가 있으므로 X
   4. 조동사 'has' + 부사 + 동사 'introduced' O
   5. 따라서 정답은 (A)입니다.
+
+ ---
+
+ 6. Ms. Ikino ___ stays at the Akor hotel chain while she is on a business trip.
+
+    (A) used (B) usual (C) usually (D) unusual
+
+- **풀이**:
+  1. 문법 문제
+  2. (___ stays) -> 동사를 꾸미는 것은 부사 따라서 (C)가 정답입니다.
+ 
+---
+
+7. Munang Airport is ___ opening after a massive, two-year renovation.
+
+   (A) finality (B) finally (C) finals (D) final
+
+- **풀이**:
+  1. 문법 문제
+  2. (is ___ opening) ->
+  3. 동사 'is' + 부사 + 동사 'opening' -> (B)
+  4. 동사 'is' + 형용사 + 명사 'opening' -> (D)
+  5. 해석해보면 "공항은 마지막 오프닝이다."보다 "공항이 마침내 개항하고 있다."가 더 자연스러우므로 (B)가 정답입니다.
+ 
+---
+
+8. Amenture is an ___ well managed company that helps small businesses with technological support.
+
+   (A) extremely (B) extremes (C) extremity (D) extremist
+
+- **풀이**:
+  1. 문법 문제
+  2. (is an ___ well managed company) -> 'an'이 있으므로 수동태 아님, 'an' 다음 명사 있음, 형용사 있음 -> 부사 (A)가 정답입니다.
+ 
+---
+
+3. Costmo Retail attributes its recent sales increase ___ to the new advertising campaign.
+
+   (A) large (B) largely (C) larger (D) lagest
+
+- **풀이**:
+  1. 문법 문제
+  2. 'attribute A to B'는 "A를 B덕분이라고 여기다."로 특별하게 해석합니다. 필수 문장 성분은 모두 있으므로 부사인 (B)가 정답입니다.
+  3. 부사의 위치가 이상한 이유는 "A를 B덕분이라고 주로 여기다." 대신 "A를 주로 B덕분이라고 여기다"로 표현했기 때문입니다.
