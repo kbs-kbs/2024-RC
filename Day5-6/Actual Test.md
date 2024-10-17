@@ -58,3 +58,14 @@
   2. (be too ___) -> 부사가 있으므로 *p.p*.는 올 수 없습니다.
   3. 따라서 'be' 뒤에는 **주격 보어**가 와야 합니다.
   4. 'too' 뒤에는 **형용사 또는 부사**가 와야 하므로 요구가 겹치는 형용사 (D)가 정답입니다.
+
+8. We, at MED Supplies Ltd., strive to provide prompt and ___ services at all times.
+
+   (A) reliable (B) reliant (C) rely (D) reliance
+
+- **풀이**:
+
+  1. **(A) reliable (B) reliant (C) rely (D) reliance** -> 문법 문제; 문장 구조 살피기
+  2. (prompt and ___ services) -> 'prompt'는 '신속한'이라는 의미의 형용사이므로 'and' 뒤에는 형용사가 와야 합니다.
+  3. **(A) reliable (B) reliant** -> 해석
+  4. "의지하는 서비스" 보다 "믿을만한 서비스"가 더 자연스러우므로 (B)가 정답입니다.
