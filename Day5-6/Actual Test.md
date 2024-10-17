@@ -127,3 +127,16 @@
   1. 문법 문제
   2. 'attribute A to B'는 "A를 B덕분이라고 여기다."로 특별하게 해석합니다. 필수 문장 성분은 모두 있으므로 부사인 (B)가 정답입니다.
   3. 부사의 위치가 이상한 이유는 "A를 B덕분이라고 주로 여기다." 대신 "A를 주로 B덕분이라고 여기다"로 표현했기 때문입니다.
+
+- **문제**:
+  9. According to company policy, concierge service is available ___ for our Premium Members.
+
+  (A) exclusive (B) exclude (C) excluding (D) exclusively
+
+- **풀이**:
+  1. 문법
+  2. (is available ___) ->
+  3. 'is' + 형용사 'available' + 주격 보어 명사
+  4. 'is' + 주격 보어 형용사 'available' + 부사
+  5. "독점적으로 이용가능한"이라는 해석이 더 자연스러우므로 (D)가 정답입니다.
+ 
