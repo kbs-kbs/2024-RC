@@ -128,8 +128,9 @@
   2. 'attribute A to B'는 "A를 B덕분이라고 여기다."로 특별하게 해석합니다. 필수 문장 성분은 모두 있으므로 부사인 (B)가 정답입니다.
   3. 부사의 위치가 이상한 이유는 "A를 B덕분이라고 주로 여기다." 대신 "A를 주로 B덕분이라고 여기다"로 표현했기 때문입니다.
 
-- **문제**:
-  9. According to company policy, concierge service is available ___ for our Premium Members.
+- **문제 9**
+  
+  According to company policy, concierge service is available ___ for our Premium Members.
 
   (A) exclusive (B) exclude (C) excluding (D) exclusively
 
