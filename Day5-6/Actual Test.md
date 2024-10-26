@@ -82,6 +82,8 @@ We, at MED Supplies Ltd., strive to provide prompt and ___ services at all times
 3. (A)와 (B)가 모두 형용사 -> 해석
 4. "의지하는 서비스" 보다 "믿을만한 서비스"가 더 자연스러우므로 (B)가 정답입니다.
 
+<br>
+
 ## Actual Test (p. 62)
 ### 문제 1
 
