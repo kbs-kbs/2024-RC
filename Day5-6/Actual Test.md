@@ -149,6 +149,8 @@ Costmo Retail attributes its recent sales increase ___ to the new advertising ca
 3. 품사를 자유로운 위치에서 수식할 수 있는 부사 (B)가 정답입니다.
 4. 부사의 위치가 동사 바로 뒤가 아닌 이유는, 부사 'largely'가 동사를 수식하면서도 '원인'이라는 의미를 강조하기 위해서 쓰이기 때문에 'to' 앞에 위치하여 "주로 새로운 광고 캠페인 덕분이라고 여기다."라는 의미를 나타내기 위함입니다.
 
+<br>
+
 ### 문제 9
   
 According to company policy, concierge service is available ___ for our Premium Members.
@@ -161,6 +163,8 @@ According to company policy, concierge service is available ___ for our Premium 
 2. (is available ___) -> 형용사 'available' 다음에 시제/태를 나타내는 동사가 올 수 없으므로 문장 성분 문제입니다.
 3. 형용사 'available'이 주격 보어로 쓰였을 수도 있고, 빈칸이 명사인 주격 보어로 쓰였을 수도 있습니다.
 5. 보기의 'excluding'은 목적어가 없어 명사로 쓰일 수 없으므로 형용사를 꾸미는 부사 (D)가 정답입니다.
+
+<br>
 
 ### 문제 10
   
