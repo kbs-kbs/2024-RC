@@ -64,9 +64,8 @@ The board of directors turned down the proposal to move the head office because 
 **풀이**
 
 1. 보기 확인 -> 문장 성분 또는 수 일치, 시제 문제
-2. (be too ___) -> 부사가 있으므로 *p.p*.는 올 수 없습니다.
-3. 따라서 'be' 뒤에는 **주격 보어**가 와야 합니다.
-4. 'too' 뒤에는 **형용사 또는 부사**가 와야 하므로 요구가 겹치는 형용사 (D)가 정답입니다.
+2. (be too ___) -> 주격 보어 또는 *p.p*.가 올 수 있습니다.
+3. 하지만 'too'는 형용사와 부사만 꾸밀 수 있는 특별한 부사이므로 형용사 (D)가 정답입니다.
 
 <br>
 
@@ -84,20 +83,21 @@ We, at MED Supplies Ltd., strive to provide prompt and ___ services at all times
 4. "의지하는 서비스" 보다 "믿을만한 서비스"가 더 자연스러우므로 (B)가 정답입니다.
 
 ## Actual Test (p. 62)
+### 문제 1
 
-1. Faststream Banking has __ introduced the new payment model for the European market.
+Faststream Banking has __ introduced the new payment model for the European market.
 
-   (A) successfully (B) success (C) succeed (D) successful
+(A) successfully (B) success (C) succeed (D) successful
 
-- **풀이**:
+**풀이**
 
-  1. 문법 문제
-  2. (has __ introduced) ->
-  3. 동사 'has' + 명사 + 과거 분사 'introduced' 뒤에 목적어가 있으므로 X
-  4. 조동사 'has' + 부사 + 동사 'introduced' O
-  5. 따라서 정답은 (A)입니다.
+1. 보기 확인 -> 문장 성분 문제
+2. (has __ introduced the new payment model) ->
+3. 동사 'has' + 명사 + 과거 분사 'introduced' 뒤에 목적어가 있으므로 X
+4. 조동사 'has' + 부사 + 동사 'introduced' O
+5. 따라서 정답은 (A)입니다.
 
- ---
+<br>
 
  6. Ms. Ikino ___ stays at the Akor hotel chain while she is on a business trip.
 
