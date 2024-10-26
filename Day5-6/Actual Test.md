@@ -11,7 +11,7 @@
    3. (A), (C) -> 보기에 명사와 형용사가 둘 다 있으므로 해석이 필요합니다.
    4. "시스템은 혁신" 보다 "시스템은 혁신적"이 자연스러우므로 답은 (C) 입니다.
 
----
+<br>
 
 2. Since print advertising is often too ___, many small busines owners choose online adverising.
 
@@ -128,16 +128,28 @@
   2. 'attribute A to B'는 "A를 B덕분이라고 여기다."로 특별하게 해석합니다. 필수 문장 성분은 모두 있으므로 부사인 (B)가 정답입니다.
   3. 부사의 위치가 이상한 이유는 "A를 B덕분이라고 주로 여기다." 대신 "A를 주로 B덕분이라고 여기다"로 표현했기 때문입니다.
 
-- **문제 9**
+### 문제 9
   
-  According to company policy, concierge service is available ___ for our Premium Members.
+According to company policy, concierge service is available ___ for our Premium Members.
 
-  (A) exclusive (B) exclude (C) excluding (D) exclusively
+(A) exclusive (B) exclude (C) excluding (D) exclusively
 
-- **풀이**:
-  1. 문법
-  2. (is available ___) ->
-  3. 'is' + 형용사 'available' + 주격 보어 명사
-  4. 'is' + 주격 보어 형용사 'available' + 부사
-  5. "독점적으로 이용가능한"이라는 해석이 더 자연스러우므로 (D)가 정답입니다.
- 
+**풀이**
+
+1. 문법
+2. (is available ___) ->
+3. 'is' + 형용사 'available' + 주격 보어 명사
+4. 'is' + 주격 보어 형용사 'available' + 부사
+5. "독점적으로 이용가능한"이라는 해석이 더 자연스러우므로 (D)가 정답입니다.
+
+### 문제 10
+  
+The whole team needs to work ___ together to manage the conference work.
+
+(A) closest (B) closely (C) closed (D) closeness
+
+**풀이**
+
+1. 문법 문제
+2. (needs to work ___) -> 'work'는 자동사이므로 이미 완성된 문장입니다. 따라서 정답은 동사를 꾸며주는 부사 (B)가 정답입니다.
+
