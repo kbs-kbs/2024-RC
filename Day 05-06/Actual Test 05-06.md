@@ -1,4 +1,4 @@
-## Actual Test (p. 55)
+## Actual Test 05
 ### 문제 1
 
 The new NAS data collection system is ___ and provides easy access to frequently used files.
@@ -84,7 +84,7 @@ We, at MED Supplies Ltd., strive to provide prompt and ___ services at all times
 
 <br>
 
-## Actual Test (p. 62)
+## Actual Test 06
 ### 문제 1
 
 Faststream Banking has __ introduced the new payment model for the European market.
