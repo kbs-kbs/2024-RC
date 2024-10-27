@@ -3,10 +3,7 @@
 
 According to Mr. Hale, the manufacturing plant ______________ the outdated equipment last month.
 
-(A) replace  
-(C) will replace  
-(B) is replacing
- (D) replaced
+(A) replace (B) is replacing (C) will replace (D) replaced
 
 **풀이**
 
@@ -16,12 +13,9 @@ According to Mr. Hale, the manufacturing plant ______________ the outdated equip
 
 ### 문제 2
 
-Starting next month, Barnett Airways __________ 
-special discounts to frequent flyers.
- (A) had offered  
-(C) will be offered  
-(B) offered
- (D) will be offering
+Starting next month, Barnett Airways __________ special discounts to frequent flyers.
+
+(A) had offered (B) offered (C) will be offered (D) will be offering
 
 **풀이**
 
@@ -31,12 +25,9 @@ special discounts to frequent flyers.
 
 ### 문제 6
 
-Mr. Kaminsky __________ his report on the progress of 
-business expansion next Thursday.
- (A) will finish  
-(C) finishing  
-(B) to finish
- (D) finished
+Mr. Kaminsky __________ his report on the progress of business expansion next Thursday.
+
+(A) will finish (B) to finish (C) finishing (D) finished
 
 **풀이**
 
@@ -47,12 +38,10 @@ business expansion next Thursday.
 
 ### 문제 7
 
-7. Stelminac Ltd. __________ its quarterly sales figures 
-yesterday at a media conference.
- (A) is releasing 
-(C) released  
-(B) releases
- (D) is to release
+Stelminac Ltd. __________ its quarterly sales figures yesterday at a media conference.
+
+(A) is releasing (B) releases (C) released (D) is to release
+
 **풀이**
 
 1. 보기 확인 -> 문장 성분 또는 시제/태 문제
@@ -64,12 +53,9 @@ yesterday at a media conference.
 
 ### 문제 4
 
-4. Before Mr. Tang joined Muhada Corp., he __________ as a 
-marketing director at Indiana Grocer.
- (A) is working   
-(C) having worked  
-(B) had worked
- (D) work
+Before Mr. Tang joined Muhada Corp., he __________ as a marketing director at Indiana Grocer.
+
+(A) is working (B) had worked (C) having worked (D) work
 
 **풀이**
 
@@ -81,12 +67,9 @@ marketing director at Indiana Grocer.
 
 ### 문제 5
 
-5. Save Energy __________ to be the top energy distributor in 
-Asia since its foundation in 1990.
- (A) aspire  
-(C) has aspired 
-(B) is aspiring
- (D) aspiring
+Save Energy __________ to be the top energy distributor in Asia since its foundation in 1990.
+
+(A) aspire (B) is aspiring (C) has aspired (D) aspiring
 
 **풀이**
 
@@ -99,12 +82,9 @@ Asia since its foundation in 1990.
 
 ### 문제 8
 
- 8. Management informed the work crews that our 
-landscaping contract with Emtraz Associates __________ 
-recently.
- (A) will have been renewed (B) is being renewed
- (C) will be renewed   
-(D) has been renewed
+Management informed the work crews that our landscaping contract with Emtraz Associates __________ recently.
+
+(A) will have been renewed (B) is being renewed (C) will be renewed (D) has been renewed
 
 **풀이**
 
@@ -115,12 +95,9 @@ recently.
 
 ### 문제 9
 
-9. Revive Corporation __________ water purification products 
-for more than 30 years.
- (A) has manufactured  
-(C) manufacture   
-(B) manufacturing
- (D) to manufacture
+Revive Corporation __________ water purification products for more than 30 years.
+
+(A) has manufactured (B) manufacturing (C) manufacture (D) to manufacture
 
 **풀이**
 
