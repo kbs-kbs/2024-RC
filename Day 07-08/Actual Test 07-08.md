@@ -21,7 +21,7 @@ If you need more information ___ our custom orders, don't hesitate to call us.
 
 **풀이**
 
-1. 보기 확인 -> 관계 또는 장소 전치사 문제
+1. 보기 확인 -> 관계 또는 위치 전치사 문제
 
 
 <br>
@@ -41,91 +41,91 @@ ___ several minor problems, the conference on global leadership was highly succe
 
 ### 문제 4
 
+Marshe has provided exceptional catering services for ___ twenty years.
 
-
-(A) enroll (B) enrollment (C) enrolled (D) enrolling
+(A) during (B) over (C) since (D) beside
 
 **풀이**
 
-1. 보기 확인 -> 문장 성분 또는 시제/태 문제
+1. 보기 확인 -> 위치 또는 기간 전치사 문제
 
 
 <br>
 
 ### 문제 5
 
-All new recruits at DM Engineering must ___ several training sessions on occupational safety.
+Air Lumina's flight 17 bound for London has been delayed ____ a technical problem.
 
-(A) attending (B) attend (C) attends (D) attention
+(A) because (B) as to (C) due to (D) except
 
 **풀이**
 
-1. 보기 확인 -> 문장 성분, 수 일치 또는 시제/태 문제
+1. 보기 확인 -> 인과 또는 관계 전치사 문제
 
 
 <br>
 
 ### 문제 6
 
-All flights departing from Heathrow ___ due to the severe weather conditions.
+___ Mr. Dupont, Xesia Motors is planning to release a new energy-efficient electric car next week.
 
-(A) postpones (B) have been delayed (C) was postponed (D) postponing
+(A) On behalf of (B) According to (C) Instead of (D) Following
 
 **풀이**
 
-1. 보기 확인 -> 시제/태 문제
+1. 보기 확인 -> 관계 또는 인과 전치사 문제
 
 
 <br>
 
 ### 문제 7
 
-Most of the employees of Future Software ___ satisfied with the new system.
+Town Center can carry out an upgrade on its database without ___ operations.
 
-(A) is (B) is being (C) are (D) was
+(A) affect (B) affects (C) affected (D) affecting
 
 **풀이**
 
-1. 보기 확인 -> 수 일치 또는 시제/태 문제
+1. 보기 확인 -> 문장 성분 수 일치 또는 시제/태 문제
 
 
 <br>
 
 ### 문제 8
 
-The laboratory assistant must ensure that all of the scientific equipment ___ properly.
+Narum's Appliance is ___ the country's leading manufacturers of home appliances.
 
-(A) functional (B) have functioned (C) is functioning (D) to function
+(A) among (B) around (C) toward (D) along
 
 **풀이**
 
-1. 보기 확인 -> 문장 성분, 시제/태 문제
+1. 보기 확인 -> 위치/방향 전치사 문제
 
 
 <br>
 
 ### 문제 9
 
-Mr. Cheung from Save Accounting ___ conference room 2 on the third floor.
+In addition to snacks, complimentary refreshments will be provided ___ the traning session.
 
-(A) is using (B) use (C) usage (D) usable
+(A) along (B) about (C) into (D) during
 
 **풀이**
 
-1. 보기 확인 -> 문장 성분, 시제/태 문제
+1. 보기 확인 -> 위치/방향, 기간 또는 관계 전치사 문제
 
 
 <br>
 
 ### 문제 10
 
-All workers at the construction sites ___ required to wear safety helmets.
+___ considering all the factors, the management decided not to renew the partnership with Lohan Networks.
 
-(A) is (B) be (C) has been (D) are
+(A) In spite of (B) Prior (C) After (D) Instead
 
 **풀이**
 
-1. 보기 확인 -> 시제/태 또는 수 일치 문제
+1. 보기 확인 -> 관계, 인과 전치사 문제
 
 
 <br>
