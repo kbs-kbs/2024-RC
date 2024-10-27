@@ -211,9 +211,22 @@ All the marketing reports should be ___ by tomorrow, and no exceptions can be ma
 
 ### 문제 10
 
-Universal
+Universal Electronics ___ several scientific research facilities across the country.
 
-(A) is (B) be (C) has been (D) are
+(A) is operated (B) operating (C) to operate (D) operates
+
+**풀이**
+
+1. 보기 확인 -> 시제/태 문제
+
+
+<br>
+
+### 문제 3
+
+Save Earth Society is ___ to conserving the environment.
+
+(A) dedicating (B) dedicated (C) dedicate (D) dedicates
 
 **풀이**
 
@@ -222,80 +235,12 @@ Universal
 
 <br>
 
-### 문제 10
+### 문제 7
 
-All workers at the construction sites ___ required to wear safety helmets.
+Diners are pleased ___ the delicious food and cozy atmosphere at Melting Sugar Restaurant.
 
-(A) is (B) be (C) has been (D) are
-
-**풀이**
-
-1. 보기 확인 -> 시제/태 또는 수 일치 문제
-
-
-<br>
-
-### 문제 10
-
-All workers at the construction sites ___ required to wear safety helmets.
-
-(A) is (B) be (C) has been (D) are
+(A) between (B) on (C) to (D) with
 
 **풀이**
 
-1. 보기 확인 -> 시제/태 또는 수 일치 문제
-
-
-<br>
-
-### 문제 10
-
-All workers at the construction sites ___ required to wear safety helmets.
-
-(A) is (B) be (C) has been (D) are
-
-**풀이**
-
-1. 보기 확인 -> 시제/태 또는 수 일치 문제
-
-
-<br>
-
-### 문제 10
-
-All workers at the construction sites ___ required to wear safety helmets.
-
-(A) is (B) be (C) has been (D) are
-
-**풀이**
-
-1. 보기 확인 -> 시제/태 또는 수 일치 문제
-
-
-<br>
-
-### 문제 10
-
-All workers at the construction sites ___ required to wear safety helmets.
-
-(A) is (B) be (C) has been (D) are
-
-**풀이**
-
-1. 보기 확인 -> 시제/태 또는 수 일치 문제
-
-
-<br>
-
-### 문제 10
-
-All workers at the construction sites ___ required to wear safety helmets.
-
-(A) is (B) be (C) has been (D) are
-
-**풀이**
-
-1. 보기 확인 -> 시제/태 또는 수 일치 문제
-
-
-<br>
+1. 보기 확인 -> 어휘 문제
