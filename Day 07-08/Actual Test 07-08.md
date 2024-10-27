@@ -133,35 +133,22 @@ ___ considering all the factors, the management decided not to renew the partner
 ## Actual Test 10
 ### 문제 1
 
-Only the managerial staff can ___ confidential information due to security concerns.
+All food processing companies must ___ with the new health safety regulations.
 
-(A) accessed (B) be accessed (C) accessing (D) access
+(A) comply (B) observe (C) follow (D) contribute
 
 **풀이**
 
-1. 보기 확인 -> 시제/태 문제
+1. 보기 확인 -> 구동사 문제
 
 
 <br>
 
 ### 문제 2
 
-All of the seats for the football match on Saturday evening ___ except for some box seats.
+Over the next eight months, the Kasific Ship building workers will ___ two new cargo ships.
 
-(A) have been sold (B) sale (C) was sold (D) selling
-
-**풀이**
-
-1. 보기 확인 -> 시제/태 문제
-
-
-<br>
-
-### 문제 4
-
-The new menu for Salt Water Pub ___ 32 oz. prime rib, filet mignon and unique pasta dishes.
-
-(A) includes (B) include (C) will be included (D) inclusion
+(A) assemble (B) assembly (C) assembles (D) assembled
 
 **풀이**
 
@@ -170,50 +157,50 @@ The new menu for Salt Water Pub ___ 32 oz. prime rib, filet mignon and unique pa
 
 <br>
 
-### 문제 5
+### 문제 3
 
-Thanks to the recently updated bookkeeping system, our goals for work efficiency have been ___.
+At the next staff meeting, Jake Hanson ___ the new project under development.
 
-(A) meets (B) meeting (C) met (D) meet
+(A) will discuss (B) discussion (C) discussing (D) to discuss
+
+**풀이**
+
+1. 보기 확인 -> 문장 성분 또는 시제/태 문제
+
+
+<br>
+
+### 문제 4
+
+All library users ___________ expected to observe the posted rules for borrowing books.
+
+(A) is (B) being (C) are (D) been
 
 **풀이**
 
 1. 보기 확인 -> 시제/태 또는 수 일치 문제
+
+
+<br>
+
+### 문제 5
+
+Any interested employees are welcome to apply _______ a transfer to the New York office.
+
+(A) in (B) since (C) among (D) for
+
+**풀이**
+
+1. 보기 확인 -> 구동사, 위치/방향 전치사 문제
 
 
 <br>
 
 ### 문제 6
 
-Detroit Plumbing will be ___ by French company Dufont Automotive Parts Co.
+According to our factory manager, errors _____ after the installation of the new machines.
 
-(A) acquired (B) acquisition (C) acquiring (D) acquire
-
-**풀이**
-
-1. 보기 확인 -> 문장 성분, 시제/태 문제
-
-
-<br>
-
-### 문제 9
-
-All the marketing reports should be ___ by tomorrow, and no exceptions can be made.
-
-(A) submit (B) submitted (C) submits (D) submitting
-
-**풀이**
-
-1. 보기 확인 -> 시제/태 또는 수 일치 문제
-
-
-<br>
-
-### 문제 10
-
-Universal Electronics ___ several scientific research facilities across the country.
-
-(A) is operated (B) operating (C) to operate (D) operates
+(A) decreasing (B) been decreased (C) have decreased (D) to decrease
 
 **풀이**
 
@@ -222,25 +209,40 @@ Universal Electronics ___ several scientific research facilities across the coun
 
 <br>
 
-### 문제 3
+### 문제 7
 
-Save Earth Society is ___ to conserving the environment.
+Vatajan Cycles, Inc., is planning to _____ a new line of racing bicycles.
 
-(A) dedicating (B) dedicated (C) dedicate (D) dedicates
+(A) result (B) arrive (C) launch (D) remain
 
 **풀이**
 
-1. 보기 확인 -> 시제/태 또는 수 일치 문제
+1. 보기 확인 -> 문장 성분 또는 자동사 문제
 
 
 <br>
 
-### 문제 7
+### 문제 8
 
-Diners are pleased ___ the delicious food and cozy atmosphere at Melting Sugar Restaurant.
+Robin Books ________ a monthly newsletter and promotional materials for bookstores.
 
-(A) between (B) on (C) to (D) with
+(A) publisher (B) publishing (C) publishes (D) publishable
 
 **풀이**
 
-1. 보기 확인 -> 어휘 문제
+1. 보기 확인 -> 문장 성분 또는 시제/태 문제
+
+
+<br>
+
+### 문제 10
+
+Carl Smith has ___________ the proposal submitted by Yasper Corporations.
+
+(A) agreed (B) referred (C) looked (D) reviewed
+
+**풀이**
+
+1. 보기 확인 -> 자동사/구동사 문제
+2. (has ___ the proposal) -> 목적어가 있으므로 자동사인 'agreed'와 'looked'는 정답이 아닙니다.
+3. 해석 -> "제출된 제안서를 참고하다"보다 "제출된 제안서를 검토하다."가 더 자연스러우므로 정답은 (D)입니다.
