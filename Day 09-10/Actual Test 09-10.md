@@ -198,9 +198,9 @@ Detroit Plumbing will be ___ by French company Dufont Automotive Parts Co.
 
 ### 문제 9
 
+All the marketing reports should be ___ by tomorrow, and no exceptions can be made.
 
-
-(A) is (B) be (C) has been (D) are
+(A) submit (B) submitted (C) submits (D) submitting
 
 **풀이**
 
@@ -211,7 +211,7 @@ Detroit Plumbing will be ___ by French company Dufont Automotive Parts Co.
 
 ### 문제 10
 
-All workers at the construction sites ___ required to wear safety helmets.
+Universal
 
 (A) is (B) be (C) has been (D) are
 
