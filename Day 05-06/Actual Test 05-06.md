@@ -12,6 +12,10 @@ The new NAS data collection system is ___ and provides easy access to frequently
 3. (A), (C) -> 보기에 명사와 형용사가 둘 다 있으므로 해석이 필요합니다.
 4. "시스템은 혁신" 보다 "시스템은 혁신적"이 자연스러우므로 답은 (C) 입니다.
 
+**해석**
+
+새로운 NAS 데이터 수집 시스템은 혁신적이며, 자주 사용하는 파일에 쉽게 접근할 수 있게 해줍니다.
+
 <br>
 
 ### 문제 2
@@ -25,6 +29,10 @@ Since print advertising is often too ___, many small busines owners choose onlin
 1. 보기 확인 -> 문장 성분 문제
 2. (is often too ___) -> 동사 뒤에 부사가 있으므로 *p.p*.가 올 수 없습니다. 따라서 주격 보어가 와야 합니다. 하지만 부사는 명사를 꾸미지 않으므로 형용사 (A)가 정답입니다.
 
+**해석**
+
+인쇄 광고는 종종 너무 비싸기 때문에, 많은 소규모 사업주들이 온라인 광고를 선택합니다.
+
 <br>
 
 ### 문제 10
@@ -37,6 +45,10 @@ In order to get a refund for your ___ items, please return them to the store alo
 
 1. 보기 확인 -> 문장 성분 또는 수 일치 문제
 2. (for your ___ items) -> 전치사구에 명사가 이미 있으므로 형용사 (B)가 정답입니다.
+
+**해석**
+
+불량품에 대한 환불을 받으시려면, 원래 영수증과 함께 해당 품목을 매장으로 반품해 주세요.
 
 <br>
 
@@ -52,6 +64,10 @@ The Buo Corporation plans to invest a ___ amount of money to upgrade its data ce
 2. (invest a ___ amount of money) -> 목적어 구에 명사가 이미 존재하므로 형용사만 올 수 있습니다.
 3. (A)와 (D)가 모두 형용사 -> 해석
 4. "사려깊은 양의 돈" 보다 "상당한 양의 돈"이 더 자연스러우므로 정답은 (D)입니다.
+
+**해석**
+
+Buo Corporation은 데이터 센터를 업그레이드하기 위해 상당한 금액을 투자할 계획입니다.
  
 <br>
 
@@ -66,6 +82,10 @@ The board of directors turned down the proposal to move the head office because 
 1. 보기 확인 -> 문장 성분 또는 수 일치, 시제/태 문제
 2. (be too ___) -> 주격 보어 또는 *p.p*.가 올 수 있습니다.
 3. 하지만 'too'는 형용사와 부사만 꾸밀 수 있는 특별한 부사이므로 형용사 (D)가 정답입니다.
+
+**해석**
+
+이사회는 본사를 이전하자는 제안을 비용이 너무 많이 들기 때문에 거절했습니다.
 
 <br>
 
@@ -82,6 +102,10 @@ We, at MED Supplies Ltd., strive to provide prompt and ___ services at all times
 3. (A)와 (B)가 모두 형용사 -> 해석
 4. "의지하는 서비스" 보다 "믿을만한 서비스"가 더 자연스러우므로 (B)가 정답입니다.
 
+**해석**
+
+저희 MED Supplies Ltd.는 항상 신속하고 신뢰할 수 있는 서비스를 제공하기 위해 노력하고 있습니다.
+
 <br>
 
 ## Actual Test 06
@@ -96,6 +120,10 @@ Faststream Banking has __ introduced the new payment model for the European mark
 1. 보기 확인 -> 문장 성분 문제
 2. (has __ introduced the new payment model) -> 현재 완료를 나타내는 'have'와 'introduced' 사이에는 부사만이 올 수 있으므로 정답은 (A)입니다.
 
+**해석**
+
+Faststream Banking은 유럽 시장을 위한 새로운 결제 모델을 성공적으로 도입했습니다.
+
 <br>
 
 ### 문제 6
@@ -108,6 +136,10 @@ Ms. Ikino ___ stays at the Akor hotel chain while she is on a business trip.
 
 1. 보기 확인 -> 문장 성분 또는 시제, 태 문제
 2. (___ stays) -> 동사를 꾸미는 것은 부사이므로 (C)가 정답입니다.
+
+**해석**
+
+Ikino 씨는 보통 출장 중에 Akor 호텔 체인에 머뭅니다.
  
 <br>
 
@@ -122,6 +154,10 @@ Munang Airport is ___ opening after a massive, two-year renovation.
 1. 보기 확인 -> 문장 성분 또는 수 일치 문제
 2. (is ___ opening) -> 'opening'이 명사로 쓰였다면 형용사, 현재 진행 동사로 쓰였다면 부사가 와야 합니다.
 3. 해석 -> "공항은 마지막 오프닝이다."보다 "공항이 마침내 개항하고 있다."가 더 자연스러우므로 (B)가 정답입니다.
+
+**해석**
+
+Munang 공항은 대규모 2년간의 리노베이션 후 마침내 개장합니다.
  
 <br>
 
@@ -135,7 +171,11 @@ Amenture is an ___ well managed company that helps small businesses with technol
 
 1. 보기 확인 -> 문장 성분 문제
 2. (is an ___ well managed company) -> 'an' 다음 명사가 있고 형용사도 있으므로 부사 (A)가 정답입니다.
- 
+
+**해석**
+
+Amenture는 소규모 사업체에 기술 지원을 제공하는 매우 잘 관리된 회사입니다.
+
 <br>
 
 ### 문제 3
@@ -150,6 +190,10 @@ Costmo Retail attributes its recent sales increase ___ to the new advertising ca
 2. (attributes its recent sales increase ___) -> 'attribute A to B'는 "A를 B 덕분이라고 여기다."로 해석합니다. 필수 문장 성분은 모두 있으므로 부사 또는 형용사가 와야 합니다.
 3. 품사를 자유로운 위치에서 수식할 수 있는 부사 (B)가 정답입니다.
 4. 부사의 위치가 동사 바로 뒤가 아닌 이유는, 부사 'largely'가 동사를 수식하면서도 '원인'이라는 의미를 강조하기 위해서 쓰이기 때문에 'to' 앞에 위치하여 "주로 새로운 광고 캠페인 덕분이라고 여기다."라는 의미를 나타내기 위함입니다.
+
+**해석**
+
+Costmo Retail은 최근 매출 증가를 주로 새로운 광고 캠페인 덕분으로 돌리고 있습니다.
 
 <br>
 
@@ -166,6 +210,10 @@ According to company policy, concierge service is available ___ for our Premium 
 3. 형용사 'available'이 주격 보어로 쓰였을 수도 있고, 빈칸이 명사인 주격 보어로 쓰였을 수도 있습니다.
 5. 보기의 'excluding'은 목적어가 없어 명사로 쓰일 수 없으므로 형용사를 꾸미는 부사 (D)가 정답입니다.
 
+**해석**
+
+회사 정책에 따르면, 컨시어지 서비스는 프리미엄 회원에게만 제공됩니다.
+
 <br>
 
 ### 문제 10
@@ -179,3 +227,6 @@ The whole team needs to work ___ together to manage the conference work.
 1. 보기 확인 -> 문장 성분 또는 시제/태 문제
 2. (needs to work ___) -> to 부정사 'work'는 자동사이므로 이미 완성된 문장입니다. 따라서 정답은 동사를 꾸며주는 부사 (B)가 정답입니다.
 
+**해석**
+
+전체 팀이 회의 작업을 관리하기 위해 긴밀하게 협력해야 합니다.
