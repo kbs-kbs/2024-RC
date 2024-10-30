@@ -8,6 +8,7 @@ ___ December, Milton Travel Agency sold more than 500 adventure tour packages.
 **풀이**
 
 1. 보기 확인 -> 관계 또는 시/공간 전치사 문제
+2. (C)가 정답입니다.
 
 
 
@@ -22,7 +23,7 @@ If you need more information ___ our custom orders, don't hesitate to call us.
 **풀이**
 
 1. 보기 확인 -> 관계 또는 위치 전치사 문제
-
+2. (A)
 
 <br>
 
@@ -35,7 +36,7 @@ ___ several minor problems, the conference on global leadership was highly succe
 **풀이**
 
 1. 보기 확인 -> 인과 전치사 문제
-
+2. (C)
 
 <br>
 
@@ -48,7 +49,7 @@ Marshe has provided exceptional catering services for ___ twenty years.
 **풀이**
 
 1. 보기 확인 -> 위치 또는 기간 전치사 문제
-
+2. (B)
 
 <br>
 
@@ -61,7 +62,7 @@ Air Lumina's flight 17 bound for London has been delayed ____ a technical proble
 **풀이**
 
 1. 보기 확인 -> 인과 또는 관계 전치사 문제
-
+2. (C)
 
 <br>
 
@@ -74,6 +75,7 @@ ___ Mr. Dupont, Xesia Motors is planning to release a new energy-efficient elect
 **풀이**
 
 1. 보기 확인 -> 관계 또는 인과 전치사 문제
+2. (B)
 
 
 <br>
@@ -87,7 +89,11 @@ Town Center can carry out an upgrade on its database without ___ operations.
 **풀이**
 
 1. 보기 확인 -> 문장 성분 수 일치 또는 시제/태 문제
+2. (D)
 
+해석
+
+자체 센터는 운영에 영향을 주지 않고 데이터베이스 업그레이드를 수행할 수 있습니다.
 
 <br>
 
@@ -100,7 +106,7 @@ Narum's Appliance is ___ the country's leading manufacturers of home appliances.
 **풀이**
 
 1. 보기 확인 -> 위치/방향 전치사 문제
-
+2. (A)
 
 <br>
 
@@ -113,6 +119,7 @@ In addition to snacks, complimentary refreshments will be provided ___ the trani
 **풀이**
 
 1. 보기 확인 -> 위치/방향, 기간 또는 관계 전치사 문제
+2. (D)
 
 
 <br>
@@ -126,7 +133,7 @@ ___ considering all the factors, the management decided not to renew the partner
 **풀이**
 
 1. 보기 확인 -> 관계, 인과 전치사 문제
-
+2. (C)
 
 <br>
 
@@ -140,7 +147,11 @@ All food processing companies must ___ with the new health safety regulations.
 **풀이**
 
 1. 보기 확인 -> 구동사 문제
+2. (A)
 
+**해석**
+
+모든 식품 가공 회사는 새로운 건강 안전 규정을 준수해야 합니다.
 
 <br>
 
@@ -153,7 +164,11 @@ Over the next eight months, the Kasific Ship building workers will ___ two new c
 **풀이**
 
 1. 보기 확인 -> 문장 성분, 시제/태 또는 수 일치 문제
+2. (A)
 
+**해석**
+
+다음 8개월 동안, Kasific 조선소의 노동자들은 두 척의 새로운 화물선을 조립할 것입니다.
 
 <br>
 
@@ -166,6 +181,9 @@ At the next staff meeting, Jake Hanson ___ the new project under development.
 **풀이**
 
 1. 보기 확인 -> 문장 성분 또는 시제/태 문제
+2. (A)
+
+**해석**
 
 
 <br>
@@ -179,7 +197,9 @@ All library users ___________ expected to observe the posted rules for borrowing
 **풀이**
 
 1. 보기 확인 -> 시제/태 또는 수 일치 문제
+2. (C)
 
+모든 도서관 이용자는 게시된 도서 대출 규정을 준수해야 합니다.
 
 <br>
 
@@ -192,7 +212,9 @@ Any interested employees are welcome to apply _______ a transfer to the New York
 **풀이**
 
 1. 보기 확인 -> 구동사, 위치/방향 전치사 문제
+2. apply for (D)
 
+관심 있는 모든 직원은 뉴욕 사무소로의 전근을 신청할 수 있습니다.
 
 <br>
 
@@ -205,6 +227,7 @@ According to our factory manager, errors _____ after the installation of the new
 **풀이**
 
 1. 보기 확인 -> 시제/태 문제
+2. (C)
 
 
 <br>
@@ -218,6 +241,7 @@ Vatajan Cycles, Inc., is planning to _____ a new line of racing bicycles.
 **풀이**
 
 1. 보기 확인 -> 문장 성분 또는 자동사 문제
+2. (C)
 
 
 <br>
@@ -231,6 +255,7 @@ Robin Books ________ a monthly newsletter and promotional materials for bookstor
 **풀이**
 
 1. 보기 확인 -> 문장 성분 또는 시제/태 문제
+2. (C)
 
 
 <br>
