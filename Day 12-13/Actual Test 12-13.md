@@ -1,28 +1,30 @@
 ## Actual Test 12
 ### 문제 1
-
 To ensure accurate billing, be sure to check all the product codes before ___ an invoice.
 
 (A) sending (B) sent (C) send (D) to send
 
 **풀이**
-
 1. 보기 확인 -> 문장 성분, 시제/태, 준동사 문제
-2. (before ___ an invoice.) -> 완벽한 전치사구이므로 형용사 또는 준동사가 와야 합니다.
+2. (before ___ an invoice.) -> 완벽한 전치사구이므로 빈칸에는 형용사 또는 준동사가 와야 합니다.
 3. 형용사는 보기에 없습니다.
 4. 준동사 문제 -> 전치사와 to 부정사는 나란히 올 수 없기 때문에 동명사 (A) 'sending'이 정답입니다.
 
 <br>
 
 ### 문제 2
+For a more pleasant holiday, avoid ___ Mullagarch Beach during the summer rainy season.
 
-Starting next month, Barnett Airways __________ special discounts to frequent flyers.
+(A) visited (B) visits (C) visiting (D) visitation
 
-(A) had offered (B) offered (C) will be offered (D) will be offering
+**풀이**    
+1. 보기 확인 -> 문장 성분, 시제/태, 시제/준동사 문제
+2. (avoid ___ Mullagarch Beach) -> 완벽한 3형식 문장이므로 빈칸에는 형용사 또는 준동사가 와야 합니다.
+3. 보기에 형용사가 없습니다.
+4. 보기에 준동사가 있습니다. -> 'avoid'는 준동사 중 동명사를 필요로 하는 동사이므로 (C) 'visiting'이 정답입니다.
 
-**풀이**
-
-1. 보기 확인 -> 
+**해석**    
+"더 즐거운 휴가를 위해, 여름 우기 동안 Mullagarch 해변을 방문하는 것을 피하세요."
 
 <br>
 
