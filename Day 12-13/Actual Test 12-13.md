@@ -1,13 +1,16 @@
-## Actual Test 11
+## Actual Test 12
 ### 문제 1
 
-According to Mr. Hale, the manufacturing plant ______________ the outdated equipment last month.
+To ensure accurate billing, be sure to check all the product codes before ___ an invoice.
 
-(A) replace (B) is replacing (C) will replace (D) replaced
+(A) sending (B) sent (C) send (D) to send
 
 **풀이**
 
-1. 보기 확인 -> 
+1. 보기 확인 -> 문장 성분, 시제/태, 준동사 문제
+2. (before ___ an invoice.) -> 완벽한 전치사구이므로 형용사 또는 준동사가 와야 합니다.
+3. 형용사는 보기에 없습니다.
+4. 준동사 문제 -> 전치사와 to 부정사는 나란히 올 수 없기 때문에 동명사 (A) 'sending'이 정답입니다.
 
 <br>
 
