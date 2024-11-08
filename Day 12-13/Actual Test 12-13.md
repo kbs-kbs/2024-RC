@@ -5,10 +5,11 @@ To ensure accurate billing, be sure to check all the product codes before ___ an
 (A) sending (B) sent (C) send (D) to send
 
 **풀이**
-1. 보기 확인 -> 문장 성분, 시제/태, 준동사 문제
-2. (before ___ an invoice.) -> 완벽한 전치사구이므로 빈칸에는 형용사 또는 준동사가 와야 합니다.
-3. 형용사는 보기에 없습니다.
-4. 준동사 문제 -> 전치사와 to 부정사는 나란히 올 수 없기 때문에 동명사 (A) 'sending'이 정답입니다.
+1. 보기 제거 -> 전치사 뒤에 동사 올 수 없음.
+2. 보기 확인 -> 문장 성분, 시제/태, 준동사 문제
+3. (before ___ an invoice.) -> 완벽한 전치사구이므로 빈칸에는 형용사 또는 준동사가 와야 합니다.
+4. 형용사는 보기에 없습니다.
+5. 준동사 문제 -> 전치사와 to 부정사는 나란히 올 수 없기 때문에 동명사 (A) 'sending'이 정답입니다.
 
 <br>
 
@@ -28,16 +29,16 @@ For a more pleasant holiday, avoid ___ Mullagarch Beach during the summer rainy 
 
 <br>
 
-### 문제 6
+### 문제 3
 
-Mr. Kaminsky __________ his report on the progress of business expansion next Thursday.
+In an effort to protect customer's personal information, we are committed to ___ our online security.
 
-(A) will finish (B) to finish (C) finishing (D) finished
+(A) improve (B) improved (C) improving (D) improves
 
 **풀이**
 
-1. 보기 확인 -> 문장 성분 또는 수 일치 문제
-2. (for your ___ items) -> 전치사구에 명사가 이미 있으므로 형용사 (B)가 정답입니다.
+1. (to ___ our online security.) -> to 부정사인 경우 동사원형인 (A), 전치사인 경우 (C)가 될 수 있습니다. 
+2. be committed to는 수동태 + 고정 전치사 표현이므로 정답은 (C) 입니다.
 
 <br>
 
