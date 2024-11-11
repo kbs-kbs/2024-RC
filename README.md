@@ -89,13 +89,24 @@
 ||||decide ___ *n*.|결정하다|
 |||③ 형용사|||
 ||||||
-|전치사 ___ 명사(구)|to 부정사구 완성|① to 부정사|would like to ___ *NP*|하고 싶다|
-||||be scheduled to ___ *NP*|예정이다|
-||||be able to ___ *NP*|할 수 있다|
-||전치사구 완성|② -ing|be committed to/be dedicated to ___ *n*.|헌신하다|
+|전치사 ___ 명사(구)|목적어 완성|① 동사|would like to ___ *N(P)*|하고 싶다|
+||||be scheduled to ___ *N(P)*|예정이다|
+||||be able to ___ *N(P)*|할 수 있다|
+||||manage to ___ *N(P)*|하다|
+||||fail to ___ *N(P)*|못하다|
+||||want to ___ *N(P)*|원하다|
+||||hope to ___ *N(P)*|희망하다|
+||||need to ___ *N(P)*|필요하다|
+||||plan to ___ *N(P)*|계획하다|
+||||promise to ___ *N(P)*|약속하다|
+||||strive to ___ *N(P)*|노력하다|
+||||expert to ___ *N(P)*|해결하다|
+||||agree to ___ *N(P)*|동의하다|
+||||decide to ___ *N(P)*|결정하다|
+||전치사의 목적어 완성|② -ing|be committed to/be dedicated to ___ *n*.|헌신하다|
 ||||look forward to ___ *n*.|기대하다|
 ||||in addition to ___ *n*.|외에도|
-|||③ 형용사|in addition to ___ *NP*||
+|||③ 형용사|||
 ||||||
 |형용사 ___ 명사(구)|형용사구 완성|① -ing|be busy ___ *NP*|바쁘다|
 |||② to 부정사|be able ___ *NP*|할 수 있다|
