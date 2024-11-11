@@ -5,11 +5,8 @@ To ensure accurate billing, be sure to check all the product codes before ___ an
 (A) sending (B) sent (C) send (D) to send
 
 **풀이**
-1. 보기 제거 -> 전치사 뒤에 동사 올 수 없음.
-2. 보기 확인 -> 문장 성분, 시제/태, 준동사 문제
-3. (before ___ an invoice.) -> 완벽한 전치사구이므로 빈칸에는 형용사 또는 준동사가 와야 합니다.
-4. 형용사는 보기에 없습니다.
-5. 준동사 문제 -> 전치사와 to 부정사는 나란히 올 수 없기 때문에 동명사 (A) 'sending'이 정답입니다.
+1. 전치사 ___ 명사(구) -> 전치사가 'to'가 아니므로, 전치사의 목적어 완성 또는 전치사의 목적어 수식 문제입니다.
+2. '-ing' 또는 '관사/소유격 대명사/형용사'이 정답이므로 (A) 'sending'이 정답입니다.
 
 <br>
 
