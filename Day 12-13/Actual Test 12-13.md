@@ -16,10 +16,8 @@ For a more pleasant holiday, avoid ___ Mullagarch Beach during the summer rainy 
 (A) visited (B) visits (C) visiting (D) visitation
 
 **풀이**    
-1. 보기 확인 -> 문장 성분, 시제/태, 시제/준동사 문제
-2. (avoid ___ Mullagarch Beach) -> 완벽한 3형식 문장이므로 빈칸에는 형용사 또는 준동사가 와야 합니다.
-3. 보기에 형용사가 없습니다.
-4. 보기에 준동사가 있습니다. -> 'avoid'는 준동사 중 동명사를 필요로 하는 동사이므로 (C) 'visiting'이 정답입니다.
+1. 동사 ___ 명사(구) -> 목적어 완성 또는 목적어 수식 문제
+2. 보기에 형용사는 없고, 'avoid'는 동명사를 필요로 하는 동사이므로 (C) 'visiting'이 정답입니다.
 
 **해석**    
 "더 즐거운 휴가를 위해, 여름 우기 동안 Mullagarch 해변을 방문하는 것을 피하세요."
@@ -34,23 +32,21 @@ In an effort to protect customer's personal information, we are committed to ___
 
 **풀이**
 
-1. (to ___ our online security.) -> to 부정사인 경우 동사원형인 (A), 전치사인 경우 (C)가 될 수 있습니다. 
-2. be committed to는 수동태 + 고정 전치사 표현이므로 정답은 (C) 입니다.
+1. 전치사 ___ 명사(구) -> 수동태 + 고정 전치사 표현이므로 목적어가 없습니다. 따라서 전치사의 목적어 완성 또는 수식 문제입니다.
+2. 보기에 형용사가 없으므로 전치사의 목적어를 완성하는 (C) 'improving'가 정답입니다.
 
 <br>
 
-### 문제 7
+### 문제 4
 
-Stelminac Ltd. __________ its quarterly sales figures yesterday at a media conference.
+In addition to ___ the Finance Committee, Mr. Boone works as the company's senior accountant.
 
-(A) is releasing (B) releases (C) released (D) is to release
+(A) supervises (B) supervising (C) supervision (D) supervised
 
 **풀이**
 
-1. 보기 확인 -> 문장 성분 또는 시제/태 문제
-2. (invest a ___ amount of money) -> 목적어 구에 명사가 이미 존재하므로 형용사만 올 수 있습니다.
-3. (A)와 (D)가 모두 형용사 -> 해석
-4. "사려깊은 양의 돈" 보다 "상당한 양의 돈"이 더 자연스러우므로 정답은 (D)입니다.
+1. 전치사 ___ 명사(구) -> 구전치사이므로 전치사의 목적어 완성 또는 수식 문제
+2. "In addition to"는 명사 또는 '-ing'를 목적어로 가지므 
  
 <br>
 
