@@ -103,7 +103,7 @@
 ||||expert to ___ *N(P)*|해결하다|
 ||||agree to ___ *N(P)*|동의하다|
 ||||decide to ___ *N(P)*|결정하다|
-||전치사의 목적어 대치|② -ing|be committed to/be dedicated to ___ *N(P)*|헌신하다|
+||전치사의 목적어 완성|② -ing|be committed to/be dedicated to ___ *N(P)*|헌신하다|
 ||||look forward to ___ *N(P)*|기대하다|
 ||||in addition to ___ *N(P)*|외에도|
 ||전치사의 목적어 수식|③ 관사/소유격 대명사/형용사|||
