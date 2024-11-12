@@ -46,48 +46,45 @@ In addition to ___ the Finance Committee, Mr. Boone works as the company's senio
 **풀이**
 
 1. 전치사 ___ 명사(구) -> 구전치사이므로 전치사의 목적어 완성 또는 수식 문제
-2. "In addition to"는 명사 또는 '-ing'를 목적어로 가지므 
+2. 보기에 형용사가 없으므로 전치사의 목적어를 완성하는 (B) 'supervising'가 정답입니다.
  
-<br>
-
-### 문제 4
-
-Before Mr. Tang joined Muhada Corp., he __________ as a marketing director at Indiana Grocer.
-
-(A) is working (B) had worked (C) having worked (D) work
-
-**풀이**
-
-1. 보기 확인 -> 문장 성분 또는 수 일치, 시제/태 문제
-2. (be too ___) -> 주격 보어 또는 *p.p*.가 올 수 있습니다.
-3. 하지만 'too'는 형용사와 부사만 꾸밀 수 있는 특별한 부사이므로 형용사 (D)가 정답입니다.
-
 <br>
 
 ### 문제 5
 
-Save Energy __________ to be the top energy distributor in Asia since its foundation in 1990.
+CEO Trout plans on ___ a presentation on the company's expansion at the next board meeting.
 
-(A) aspire (B) is aspiring (C) has aspired (D) aspiring
+(A) give (B) given (C) giving (D) giver
 
 **풀이**
 
-1. 보기 확인 -> 문장 성분 문제
-2. (prompt and ___ services) -> 'prompt'는 '신속한'이라는 의미의 형용사이므로 'and' 뒤에는 형용사가 와야 합니다.
-3. (A)와 (B)가 모두 형용사 -> 해석
-4. "의지하는 서비스" 보다 "믿을만한 서비스"가 더 자연스러우므로 (B)가 정답입니다.
+1. 전치사 ___ 명사(구) -> 전치사의 목적어 완성 또는 수식 문제
+2. 보기에 형용사가 없으므로 전치사의 목적어를 완성하는 (C) 'giving'가 정답입니다.
 
 <br>
 
-### 문제 8
+### 문제 6
 
-Management informed the work crews that our landscaping contract with Emtraz Associates __________ recently.
+As finance director, Mr. Hearst will be responsible for ___ a budget proposal.
 
-(A) will have been renewed (B) is being renewed (C) will be renewed (D) has been renewed
+(A) prepare (B) preparing (C) preparation (D) prepares
 
 **풀이**
 
-1. 보기 확인 -> 문장 성분 문제
+1. 전치사 ___ 명사(구) -> 전치사의 목적어 완성 또는 수식 문제
+2. 보기에 형용사가 없으므로 전치사의 목적어를 완성하는 (B) 'preparing'가 정답입니다.
+
+<br>
+
+### 문제 7
+
+ATX Chairman Shin Kwon-ho plans to spend more time ___ profitable branches.
+
+(A) manager (B) managing (C) managed (D) manages
+
+**풀이**
+
+1. 명사 ___ 명사(구) -> 문장 성분 문제
 2. (has __ introduced the new payment model) -> 현재 완료를 나타내는 'have'와 'introduced' 사이에는 부사만이 올 수 있으므로 정답은 (A)입니다.
 
 <br>
