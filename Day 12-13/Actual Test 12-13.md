@@ -84,20 +84,20 @@ ATX Chairman Shin Kwon-ho plans to spend more time ___ profitable branches.
 
 **풀이**
 
-1. 명사 ___ 명사(구) -> 문장 성분 문제
-2. (has __ introduced the new payment model) -> 현재 완료를 나타내는 'have'와 'introduced' 사이에는 부사만이 올 수 있으므로 정답은 (A)입니다.
+1. 명사 ___ 명사(구) -> 문장 내에 주동사가 있으므로 문장 완성 문제는 아니며 간접 목적어 완성/수식 문제 또는 직접 목적어 수식 문제입니다. 
+2. spend는 간접 목적어로 '-ing'를 필요로 하므로 정답은 (B) 'managing'입니다.
 
 <br>
 
-### 문제 9
+### 문제 8
 
-Revive Corporation __________ water purification products for more than 30 years.
+Eugene Smith, president of WCR Kitchenware, announced his decision about ___ a new plant.
 
-(A) has manufactured (B) manufacturing (C) manufacture (D) to manufacture
+(A) building (B) to build (C) builds (D) build
 
 **풀이**
 
-1. 보기 확인 -> 문장 성분 또는 시제, 태 문제
-2. (___ stays) -> 동사를 꾸미는 것은 부사이므로 (C)가 정답입니다.
+1. 전치사 ___ 명사(구) -> 전치사가 'to'가 아니므로 목적어 완성 문제는 아니며, 전치사의 목적어 수식/완성 문제입니다.
+2. 목적어를 완성할 수 있는 (A) 'building'이 정답이며 관사/소유격 대명사/형용사가 있으므로 분사로 쓰인것이 아닌 동명사로 쓰였음을 알 수 있습니다.
  
 <br>
