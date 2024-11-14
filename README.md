@@ -38,6 +38,21 @@
 - **시점 표현**:
   - last -> was
 
+- 분사(participle) : 형용사의 기능을 가지는 동사의 부정형.
+- 부동사(converb): 부사의 기능을 가지는 동사의 부정형.
+- 동명사(gerund): 명사의 기능을 가지는 동사의 부정형.
+
+|형식|구조|수동태|
+|---|---|---|
+|1|S + V||
+|2|S + V + SC||
+|3|S + V + O|O + be + pp + prep + S|
+|4|S + V + DO + IO|DO + be + pp + prep + IO [+ prep + S]|
+|||IO + be + pp + DO [+ prep + S]|
+|5|S + V + O + OC|O + be + pp + OC [+ prep + S]|
+
+
+
 
 |문제 유형|보기|세부 유형||
 |---|---|---|---|
