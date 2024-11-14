@@ -2,6 +2,23 @@
 
 > Reading Comprehension
 
+약칭
+편의상 마침표 넣지 않음
+어, 구는 대문자 사는 소문자
+Pres. Part. -> pres-part 편의상
+
+관사: art
+명사: n
+명사구: NP
+형용사: adj
+대명사: pron
+부사: adv
+소유격 대명사: poss-pron
+현재 분사: pp 또는 pres-part
+과거 분사: pp 또는 past-part
+목적어: O
+
+
 - 같은 품사 **다른 단어**로 구성된 선지 -> **어휘 문제**
 - **같은 단어** 다른 형태로 구성된 선지 -> **문법 문제**
 
@@ -61,9 +78,9 @@
 
 |형식|문장 구조|
 |---|---|
-|1|S + be + pp|
-|2|S + be + pp + SC|
-|3|S + be + pp + O|
+|1|S + be + past-part|
+|2|S + be + past-part + SC|
+|3|S + be + past-part + O|
 
 > [!NOTE]
 > 수동태 문장에 필요한 'pp'를 형용사로 여긴다면
