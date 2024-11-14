@@ -98,6 +98,31 @@ Eugene Smith, president of WCR Kitchenware, announced his decision about ___ a n
 **풀이**
 
 1. 전치사 ___ 명사(구) -> 전치사가 'to'가 아니므로 목적어 완성 문제는 아니며, 전치사의 목적어 수식/완성 문제입니다.
-2. 목적어를 완성할 수 있는 (A) 'building'이 정답이며 관사/소유격 대명사/형용사가 있으므로 분사로 쓰인것이 아닌 동명사로 쓰였음을 알 수 있습니다.
+2. 목적어를 완성할 수 있는 (A) 'building'이 정답이며, 관사가 있으므로 형용사로 쓰인 것이 아닌 동명사로 쓰였음을 알 수 있습니다.
  
 <br>
+
+### 문제 9
+
+By ___ old machinery with more efficient equipment, Seico will be able to save on operating expenses.
+
+(A) replaced (B) replacement (C) replaces (D) replacing
+
+**풀이**
+
+1. 전치사 ___ 명사(구) -> 전치사의 목적어 수식/완성 문제입니다.
+2. (A) 'replaced'가 분사라고 한다면 목적어를 수식할 수 있지만 분사는 명사 바로 앞에 위치해야 하므로 정답이 아닙니다.
+3. 따라서 전치사의 목적어를 완성할 수 있는 (D) 'replacing'이 정답입니다.
+
+<br>
+
+### 문제 10
+
+Super Stores is considering ___ a free gift to any customers who visit the store on its fifth anniversary.
+
+(A) offering (B) offer (C) offered (D) offers
+
+**풀이**
+
+1. 동사 ___ 명사(구) -> 목적어 수식/완성 문제입니다.
+2. 'consider'는 동명사를 목적어로 가지는 동사이므로 정답은 (A) 'offering'입니다.
