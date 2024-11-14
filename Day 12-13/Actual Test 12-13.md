@@ -126,3 +126,31 @@ Super Stores is considering ___ a free gift to any customers who visit the store
 
 1. 동사 ___ 명사(구) -> 목적어 수식/완성 문제입니다.
 2. 'consider'는 동명사를 목적어로 가지는 동사이므로 정답은 (A) 'offering'입니다.
+
+<br>
+
+## Actual Test 13
+### 문제 1
+
+We at Herero Agency strive ___ the best in terms of our customer relations.
+
+(A) to be (B) being (C) having been (D) be
+
+**풀이**
+
+1. 동사 ___ 명사(구) -> 목적어 수식/완성 문제입니다.
+2. 'strive'는 to 부정사를 목적어로 가지는 동사이므로 정답은 (A) 'to be'입니다.
+
+<br>
+
+### 문제 2
+
+In an effort ___ operating costs, employees are asked to avoid unnecessary photocopying.
+
+(A) reduces (B) reduction (C) reduce (D) to reduce
+
+**풀이**
+
+1. 명사 ___ 명사(구) -> 목적어 수식/완성 문제입니다.
+2. 'strive'는 to 부정사를 목적어로 가지는 동사이므로 정답은 (A) 'to be'입니다.
+
