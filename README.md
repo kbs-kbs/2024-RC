@@ -64,6 +64,21 @@ Pres. Part. -> pres-part 편의상
 > [!NOTE]
 > to 부정사에서 to는 전치사가 아닌 to 부정사를 형성하는 데 필요한 요소입니다. 
 
+S + be + -ing 구조의 문장에서 -ing의 역할
+
+1. "She is reading a book.": 그녀는 책을 읽는다. 동사
+2. "Her favorite hobby is reading books.": 명사
+3. "She is reading girl": 형용사
+
+그녀는 읽는 책이다.
+
+"She is a reading book." 이 문장은 "그녀는 책을 읽는 것이다", "그녀는 읽는 책이다" 어느 쪽으로도 해석될 수 있습니다.
+따라서 '-ing'가 명사로 쓰였는지 형용사로 쓰였는지 정확하게 구분하기 위해서는 해석이 필요합니다.
+동사로 쓰일 때는 보통 관사가 뒤에 붙기 때문에 알 수 있지만 복수일 경우에는 
+
+
+
+
 형식에 따른 문장 구조
 
 |형식|문장 구조|
