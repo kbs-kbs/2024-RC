@@ -143,7 +143,7 @@ We at Herero Agency strive ___ the best in terms of our customer relations.
 
 <br>
 
-### 문제 2
+### 문제 3
 
 In an effort ___ operating costs, employees are asked to avoid unnecessary photocopying.
 
@@ -152,5 +152,18 @@ In an effort ___ operating costs, employees are asked to avoid unnecessary photo
 **풀이**
 
 1. 명사 ___ 명사(구) -> 목적어 수식/완성 문제입니다.
-2. 'strive'는 to 부정사를 목적어로 가지는 동사이므로 정답은 (A) 'to be'입니다.
+2. 'effort'는 to 부정사의 수식을 받는 명사이므로 (D) 'to reduce'가 정답입니다.
+
+<br>
+
+### 문제 4
+
+We are truly sorry that we are not able ___ your request.
+
+(A) accommodates (B) to accommodate (C) accommodated (D) accommodate
+
+**풀이**
+
+1. 형용사 ___ 명사(구) -> 부사구 완성 문제입니다.
+2. 'able'은 to 부정사의 수식을 받는 형용사이므로 (B) 'to accommodate'가 정답입니다.
 
