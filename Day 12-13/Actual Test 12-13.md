@@ -167,3 +167,19 @@ We are truly sorry that we are not able ___ your request.
 1. 형용사 ___ 명사(구) -> 부사구 완성 문제입니다.
 2. 'able'은 to 부정사의 수식을 받는 형용사이므로 (B) 'to accommodate'가 정답입니다.
 
+<br>
+
+### 문제 5
+
+___ reimbursement, you need to fill out an expense report form and submit it to the accounting department.
+
+(A) To claim (B) Claim (C) Claims (D) Claimed
+
+**풀이**
+
+1. ___ 명사(구) -> 부사구 완성 문제입니다.
+2. 부사구를 만들 수 있는 (A) 'To claim'이 정답입니다.
+
+**해석**  
+
+비용 환급을 청구하려면, 경비 보고서 양식을 작성하여 회계 부서에 제출해야 합니다.
