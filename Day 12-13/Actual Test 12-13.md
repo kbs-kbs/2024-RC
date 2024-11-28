@@ -244,4 +244,4 @@ The marketing director has called a meeting unexpectedly ___ an urgent matter.
 
 **해석**  
 
-Marc Corp.와 ENC Industry는 주거 단지를 건설하기 위한 합작 투자 계약을 체결했습니다.
+마케팅 이사가 긴급한 문제를 해결하기 위해 예상치 못하게 회의를 소집했습니다.
