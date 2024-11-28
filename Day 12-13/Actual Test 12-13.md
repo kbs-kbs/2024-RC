@@ -183,3 +183,65 @@ ___ reimbursement, you need to fill out an expense report form and submit it to 
 **해석**  
 
 비용 환급을 청구하려면, 경비 보고서 양식을 작성하여 회계 부서에 제출해야 합니다.
+
+<br>
+
+### 문제 6
+
+Dr. Ortega, the leader of the Centennial Lab, plans ___ detailed reports to her supervisor every month.
+
+(A) submit (B) to submit (C) submitted (D) will submit
+
+**풀이**
+
+1. 동사 ___ 명사(구) -> 목적어 완성 문제입니다.
+2. 'plans'는 목적어로 to 부정사를 필요로 하므로 정답은 (B) 'to submit'입니다.
+
+**해석**  
+
+Centennial Lab의 리더인 Dr. Ortega는 매달 그녀의 관리자에게 자세한 보고서를 제출하는 것을 계획합니다.
+
+### 문제 8
+
+Marc Corp. and ENC Industry signed a joint venture agreement to ___ a residential complex.
+
+(A) builds (B) being built (C) build (D) built
+
+**풀이**
+
+1. 전치사 ___ 명사(구) -> 완벽한 문장이므로 형용사구 완성 문제입니다.
+2. 'agreement'는 to 부정사의 수식을 받는 명사이므로 정답은 동사 원형인 (C) 'build'입니다.
+
+**해석**  
+
+Marc Corp.와 ENC Industry는 
+
+### 문제 9
+
+Marc Corp. and ENC Industry signed a joint venture agreement to ___ a residential complex.
+
+(A) builds (B) being built (C) build (D) built
+
+**풀이**
+
+1. 전치사 ___ 명사(구) -> 완벽한 문장이므로 형용사구 완성 문제입니다.
+2. 'agreement'는 to 부정사의 수식을 받는 명사이므로 정답은 동사 원형인 (C) 'build'입니다.
+
+**해석**  
+
+Marc Corp.와 ENC Industry는 주거 단지를 건설하기 위한 합작 투자 계약을 체결했습니다.
+
+### 문제 10
+
+The marketing director has called a meeting unexpectedly ___ an urgent matter.
+
+(A) addressed (B) addresses (C) address (D) to address
+
+**풀이**
+
+1. 부사 ___ 명사(구) -> 부사구 완성 문제입니다.
+2. 정답은 to 부정사인 (D) 'to address'입니다.
+
+**해석**  
+
+Marc Corp.와 ENC Industry는 주거 단지를 건설하기 위한 합작 투자 계약을 체결했습니다.
