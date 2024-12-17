@@ -228,4 +228,61 @@ Our air conditioners are ___ more efficient than those manufactured by our compe
 5. "most"는 최상급을 나타내는 형용사로, 비교급을 수식할 수 없습니다.
 
 #### 해석    
-이 문장은 "우리의 에어컨은 경쟁사에서 제조한 것보다 훨씬 더 효율적이다.
+우리의 에어컨은 경쟁사에서 제조한 것보다 훨씬 더 효율적이다.
+
+<br>
+
+### 문제 8
+Despite the fierce competition in the brewing industry, Gang remains the ___ brewery in the region.
+
+|(A)|(B)|(C)|(D)|
+|---|---|---|---|
+|most popular|popularity|most popularly|popularize|
+
+#### 풀이 
+1. 빈칸에는 형용사가 들어가야 합니다.
+2. "most popular"는 최상급 형용사로, "가장 인기 있는"이라는 의미를 가집니다. 정답입니다.
+3. "popularity"는 명사로, 이 문장 구조에서는 사용할 수 없습니다.
+4. "most popularly"는 부사로, 형용사 자리에 사용할 수 없습니다.
+5. "popularize"는 동사로, 이 문장 구조에서는 사용할 수 없습니다.
+
+#### 해석    
+치열한 경쟁에도 불구하고, Gang은 여전히 이 지역에서 가장 인기 있는 양조장이다.
+
+<br>
+
+### 문제 9
+The most recent NaNo tournament drew ___ partcipants than last year's event.
+
+|(A)|(B)|(C)|(D)|
+|---|---|---|---|
+|more|many|every|most|
+
+#### 풀이 
+1. 빈칸에는 비교급을 나타내는 형용사가 들어가야 합니다.
+2. "more"는 비교급을 나타내는 단어로, "participants"를 수식할 수 있습니다. 정답입니다.
+3. "many"는 수량을 나타내는 형용사로, 비교급 구문에서는 사용할 수 없습니다.
+4. "every"는 모든 것을 나타내는 형용사로, 이 문장 구조에서는 사용할 수 없습니다.
+5. "most"는 최상급을 나타내는 형용사로, 비교급 구문에서는 사용할 수 없습니다.
+
+#### 해석    
+가장 최근의 NaNo 토너먼트는 작년 행사보다 더 많은 참가자를 끌어모았다.
+
+<br>
+
+### 문제 10
+Movie director Alex Gunn says that Guardians Vol. 2 is the ___ film that he has ever made.
+
+|(A)|(B)|(C)|(D)|
+|---|---|---|---|
+|creatively|more creative|creative|most creative|
+
+#### 풀이 
+1. 빈칸에는 최상급 형용사가 들어가야 합니다.
+2. "creatively"는 부사로, 형용사 자리에 사용할 수 없습니다.
+3. "more creative"는 비교급 형용사로, 최상급을 나타내는 문장에서는 사용할 수 없습니다.
+4. "creative"는 원급 형용사로, 최상급을 나타내는 문장에서는 사용할 수 없습니다.
+5. "most creative"는 최상급 형용사로, 문장에서 "가장 창의적인"이라는 의미를 전달합니다. 정답입니다.
+
+#### 해석    
+영화 감독 Alex Gunn은 Guardians Vol. 2가 그가 만든 영화 중 가장 창의적인 영화라고 말한다.
