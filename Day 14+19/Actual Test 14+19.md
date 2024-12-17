@@ -150,3 +150,82 @@ Interviewing ___ applicants as possible can be difficult and time-consuming.
 #### 해석    
 가능한 한 많은 지원자를 인터뷰하는 것은 어렵고 시간이 많이 걸릴 수 있다.
 
+<br>
+
+### 문제 3
+The new laser printer prints out copies ___ than the old printing machine did.
+
+|(A)|(B)|(C)|(D)|
+|---|---|---|---|
+|quickness|quickly|quick|more quickly|
+
+#### 풀이 
+1. 'prints out'을 수식하는 부사 (D) 'more quickly'가 정답입니다.
+
+#### 해석    
+새로운 레이저 프린터는 이전 프린터보다 더 빨리 복사물을 출력한다.
+
+<br>
+
+### 문제 4
+Money Plus became one of the ___ distributed financial publications in the northeastern area.
+
+|(A)|(B)|(C)|(D)|
+|---|---|---|---|
+|wide|most widely|wideness|widen|
+
+#### 풀이 
+1. 분사 "distributed"를 수식할 수 있는 부사 "most widely"가 정답입니다.
+
+#### 해석    
+Money Plus는 북동부 지역에서 가장 널리 배포된 금융 출판물 중 하나가 되었다.
+
+<br>
+
+### 문제 5
+Prices at Jason Appliances are ___ lower than those at other applience retailers.
+
+|(A)|(B)|(C)|(D)|
+|---|---|---|---|
+|significantly|significant|significance|signify|
+
+#### 풀이 
+1. 형용사 "lower"를 수식하는 부사 "significantly"가 정답입니다.
+2. 비교급 문장이 아니라면 "lower than NP" 대신 "low"로 대체할 수 있습니다.
+
+#### 해석    
+Jason Appliances의 가격은 다른 가전제품 소매점보다 상당히 낮다.
+
+<br>
+
+### 문제 6
+Kay Tech's newest software makes tour decision-making as ___ as possible.
+
+|(A)|(B)|(C)|(D)|
+|---|---|---|---|
+|easier|easy|easiest|more easily|
+
+#### 풀이 
+1. "as ~ as" 구문에서 형용사 원급을 사용해야 하므로 "easy"가 정답입니다.
+
+#### 해석    
+Kay Tech의 최신 소프트웨어가 당신의 의사 결정을 가능한 한 쉽게 만든다.
+
+<br>
+
+### 문제 7
+Our air conditioners are ___ more efficient than those manufactured by our competitors.
+
+|(A)|(B)|(C)|(D)|
+|---|---|---|---|
+|many|very|much|most|
+
+#### 풀이 
+1. "more efficient"를 수식하는 부사가 필요합니다.
+2. "many"는 수량을 나타내는 형용사로, 부사 역할을 할 수 없습니다.
+3. "very"는 형용사를 수식할 수 있지만, 비교급을 수식할 때는 사용되지 않습니다.
+4. "much"는 비교급을 수식할 때 사용되는 부사로, "more efficient"를 수식할 수 있습니다. 정답입니다.
+5. "most"는 최상급을 나타내는 형용사로, 비교급을 수식할 수 없습니다.
+
+#### 해석    
+이 문장은 "우리의 에어컨은 경쟁사에서 제조한 것보다 훨씬 더 효율적이다.
